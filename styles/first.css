@@ -1,0 +1,16 @@
+h2{color: orange;
+
+margin-left: 150px    ;
+text-shadow: 30px;}
+p{background-color: aquamarine;
+border: 10px solid orangered;
+box-shadow: 5px 5px 5px lightcoral;
+
+height: 200px;
+width: 400px;
+margin: 20px;
+text-align: center;
+padding-top: 80px;
+border-radius: 0px 20px;
+
+}
